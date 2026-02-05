@@ -1,0 +1,34 @@
+{
+  "name": "howells",
+  "description": "Development, fiction writing, and note capture plugins by Daniel Howells.",
+  "owner": {
+    "name": "Daniel Howells",
+    "url": "https://github.com/howells"
+  },
+  "plugins": [
+    {
+      "name": "arc",
+      "description": "The full arc from idea to shipped code. Design, planning, TDD execution, expert review, and knowledge capture.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/howells/arc.git"
+      }
+    },
+    {
+      "name": "fiction",
+      "description": "Write complete novels with Claude. Literary prose, iterative review, and craft-aware feedback.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/howells/fiction.git"
+      }
+    },
+    {
+      "name": "obsi",
+      "description": "Capture notes to your Obsidian vault from anywhere.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/howells/obsi.git"
+      }
+    }
+  ]
+}
