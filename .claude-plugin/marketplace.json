@@ -21,14 +21,6 @@
         "source": "url",
         "url": "https://github.com/howells/fiction.git"
       }
-    },
-    {
-      "name": "obsi",
-      "description": "Capture notes to your Obsidian vault from anywhere.",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/howells/obsi.git"
-      }
     }
   ]
 }
