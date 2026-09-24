@@ -1,25 +1,17 @@
 {
-  "name": "howells",
-  "description": "Development, fiction writing, and note capture plugins by Daniel Howells.",
+  "name": "howells-plugins",
+  "description": "Daniel Howells' agent skills as a Claude plugin, listed under a name that claude.ai accounts can add alongside other repos called skills.",
   "owner": {
     "name": "Daniel Howells",
     "url": "https://github.com/howells"
   },
   "plugins": [
     {
-      "name": "arc",
-      "description": "The full arc from idea to shipped code. Design, planning, TDD execution, expert review, and knowledge capture.",
+      "name": "howells-skills",
+      "description": "Daniel Howells' agent skills: UI design and browser QA, prose and code clean-up, delegation, task recovery, and integrations for Linear, Google Workspace, Xero and Starling.",
       "source": {
-        "source": "url",
-        "url": "https://github.com/howells/arc.git"
-      }
-    },
-    {
-      "name": "fiction",
-      "description": "Write complete novels with Claude. Literary prose, iterative review, and craft-aware feedback.",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/howells/fiction.git"
+        "source": "github",
+        "repo": "howells/skills"
       }
     }
   ]
