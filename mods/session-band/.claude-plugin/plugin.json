@@ -1,0 +1,1 @@
+{ "name": "session-band", "version": "0.1.0", "description": "Shows model, effort, context used, distance to auto-compact and rate limits above the prompt.", "types": "./types/index.d.ts" }

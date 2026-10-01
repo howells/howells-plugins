@@ -1,0 +1,1 @@
+{ "name": "retry-flaky", "version": "0.1.0", "description": "Retries browser and Linear MCP tool calls twice when the connection dropped before the call ran." }

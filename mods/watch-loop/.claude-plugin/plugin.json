@@ -1,0 +1,1 @@
+{ "name": "watch-loop", "version": "0.1.0", "description": "Denies the third consecutive poll or wait command when no edit has landed between them." }

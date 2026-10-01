@@ -13,6 +13,21 @@
         "source": "github",
         "repo": "howells/skills"
       }
+    },
+    {
+      "name": "watch-loop",
+      "description": "Denies the third consecutive poll or wait command when no edit has landed between them.",
+      "source": "./mods/watch-loop"
+    },
+    {
+      "name": "retry-flaky",
+      "description": "Retries browser and Linear MCP tool calls twice when the connection dropped before the call ran.",
+      "source": "./mods/retry-flaky"
+    },
+    {
+      "name": "session-band",
+      "description": "Shows model, effort, context used, distance to auto-compact and rate limits above the prompt.",
+      "source": "./mods/session-band"
     }
   ]
 }
